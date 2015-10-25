@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monster Run Blogg Galleri Page</title>
+        <link type="text/css" rel="stylesheet" href="stylesheet.css" />
+    </head>
+    
+    <body>
+        <div class="nav">
+            <ul> <strong> <em>
+                <li><a href="./HomePageNO.html">Hjem </a> </li>
+                <li><a href="#">Blogg </a> </li>
+                <li><a href="./AboutPageNO.html">Info </a> </li>
+                <li><a href="./HomePageEN.html">English <img src="./Images/ENFlag.png"/> </a> </li>
+            </em> </strong> </ul>
+        </div>
+    <div class = "page">
+         <h3> Css i nettside utvikling </h3>
+        <h4> Skrevet og laget av: Andreas Phillip Krogrud. </h4>
+        <p> Css er det andre programmering språket som du sikkert ønsker å bruke for å lage veldig kule nettsider. Det å lage en nettside er ikke veldig vanskelig, men Css er det som er mest styr. Grunnen til dette er siden du bruker Html til å lage selve nettsiden, men Css får det til å se veldig bra ut. De fleste nettsider bruker Css eller lignende. Css har mye mer potensial enn Html siden html nesten ikke kan velge hvor ting skal være men kombinert med Css så kan du lage bakgrunner, endre størrelse på bilder, skifte farge på skrift etc. Css kan ligne mer på vanlig scripting om du kan det, men ikke helt. Med Css lager man en “.css” fil. I denne filen kan du velge et element i din Html kode og forandre på det. Får å bruke en Css kode i din nettside legg til en head tagg og inni head taggen legg til “(link type="text/css" rel="#" href="#.css" /)” # er filnavnet på Css filen. Inni Css trenger du bare å skrive: # {  } inni {} kan du skrive inn det du vil forandre. # er navnet på elementet. om du ønsker å velge en klasse så legg en “.” foran #. </p>
+        <p>Her er en liste over forskellige ting du kan forandre på. Om du ønsker noe annet kan du søke det opp på nett dette er noen eksempler det er mange andre.</p>
+        <p> color: #; - Skifter farge på teksten # skal byttes ut med en farge på engelsk.</p>
+        <p> font-size: #px; - Dette er skrift størelsen målt i pixeler bytt ut # med et tall. </p>
+        <p>text-align: #; - Dette er på hvilke side av skjermen teksten skal være “left” “center” eller “right” bytt en av de ut med #. </p>
+        <p> background-color: #; - Dette er bakgrunds fargen til elementet bytt ut # med en farge på engelsk. </p>
+        <p> font-family: #; Bytt ut # med en skrift type. f.eks. Courier. </p>
+        <p> Det finnes mange andre variabler å skifte på får å få en stilig nettside. </p>
+    </div>
+    </body>
+</html>
