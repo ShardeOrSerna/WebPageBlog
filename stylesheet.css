@@ -3,6 +3,10 @@ html {
   background-size: cover;
 }
 
+.page {
+    padding : 50px;
+}
+
 .nav {
     background-color: grey;
     padding: 15px;
